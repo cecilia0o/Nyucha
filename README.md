@@ -19,3 +19,6 @@ And of course, thanks to everyone who supported, tested, gave ideas, or simply l
 
 Made with questionable amounts of sleep by **Wotabo Studio**.  
 ✨ *Thank you for playing!* ✨
+
+###Game and Assets:
+https://drive.google.com/drive/folders/1Ure3EfVl2Hqfz8MM-gm7XVKyhnUQaG2D?usp=sharing
