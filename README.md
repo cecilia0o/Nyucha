@@ -10,6 +10,7 @@ Special thanks to everyone who helped make **Nyucha** happen!
 - **Wotabo Studio** — for being the chaotic little team behind this project.
 - **Kaito** — Project Manager and professional keeper of the team (somehow).
 - **Ryzu** — for designing basically everything visual, from characters to backgrounds.
+- **Lala** — Background Artist. The reason our characters don’t have to stand in the void.
 - **Awan** — for contributing to the story and helping bring the world of Nyucha to life.
 - **Cecilia** — former Character Designer, now somehow a Programmer. Character art abandoned, bugs adopted.
 - **Everyone else** — you know who you are. Thank you for surviving this project with us. ♡
